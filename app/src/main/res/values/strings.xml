@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Number Game</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="rules_text">Enter a random number. If you get the number correct, you win.\n\nIf you get the number wrong, your lose! You can start over and try again.</string>
+    <string name="rules">Rules</string>
+    <string name="registration">Registration</string>
+    <string name="title_trivia_rules">Rules</string>
+    <string name="share_success_text">I mastered #NumberGame with correct answer!</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
